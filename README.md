@@ -1,3 +1,3 @@
-#Kokoa Clone 2020 Update Course
+# Kokoa Clone 2020 Update Course
 
-CSS got so mych better!
+HTML & CSS are so much fun!
