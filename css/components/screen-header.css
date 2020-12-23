@@ -1,0 +1,31 @@
+.screen-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--horizontal-space);
+  margin-bottom: 15px;
+}
+
+.screen-header__title {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.screen-header__icons span {
+  margin-left: 25px;
+}
+
+.screen-header__hwbase {
+  position: relative;
+}
+
+.screen-header__hw {
+  position: absolute;
+  display: flex;
+  height: 8px;
+  width: 8px;
+  border-radius: 4px;
+  left: -8px;
+  top: -10px;
+  background-color: tomato;
+}
