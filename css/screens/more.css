@@ -46,3 +46,19 @@
   font-size: 32px;
   color: white;
 }
+
+.more-suggestions__icon-image i {
+  font-size: 32px;
+  color: white;
+}
+
+.more-suggestoins__icon__kiwi {
+  height: 60px;
+  width: 60px;
+  background-color: tomato;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
